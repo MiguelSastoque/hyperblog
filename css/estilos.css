@@ -7,15 +7,22 @@ body
     padding: 0;
     font-size: 16px;
 }
+
 #container
 {
     width: 70%;
     padding: 1cm;
     text-align: left;
-    border: 1 px solid #dddddd;
+    border: 2 px solid gray;
     margin: 0 auto;
 }
-
+#cabecera
+{
+    background: #66D;
+    color: white;
+    margin: 0;
+    padding: 0.5cm;
+}
 #container h1
 {
     font-size: 30px;
